@@ -65,7 +65,13 @@ This document keeps track of all the names people call my wife.
   <td>Na Mui</td>
   <td>น้ามุย</td>
   <td>Younger aunt, Chinese nickname</td>
-  <td>Nephews and nieces</td>
+  <td>Elder siblings' kids</td>
+</tr>
+<tr>
+  <td>Jae Jae</td>
+  <td>เจ็เจ้</td>
+  <td>Play on Elder Chinese sister</td>
+  <td>Younger siblings' kids</td>
 </tr>
 <tr>
   <td>Wie</td>
