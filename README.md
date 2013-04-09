@@ -3,8 +3,6 @@
 
 This document keeps track of all the names people call my wife.
 
-## The List
-
 <table>
 <thead>
 <tr>
