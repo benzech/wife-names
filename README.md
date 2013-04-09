@@ -79,6 +79,12 @@ This document keeps track of all the names people call my wife.
   <td>English "wife" with Thai accent</td>
   <td>Me</td>
 </tr>
+<tr>
+  <td>Anna</td>
+  <td></td>
+  <td>Christian/Catholic name</td>
+  <td></td>
+</tr>
 
 </tbody>
 </table>
