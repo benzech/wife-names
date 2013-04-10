@@ -20,7 +20,7 @@ This document keeps track of all the names people call my wife.
   <td>Government officials, etc.</td>
 </tr>
 <tr>
-  <td>My parents (easy to pronounce)</td>
+  <td>My friends and family (easy to pronounce)</td>
 </tr>
 <tr>
   <td>Toi</td>
