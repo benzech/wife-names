@@ -41,10 +41,16 @@ This document keeps track of all the names people call my wife.
   <td>Acquaintances (younger)</td>
 </tr>
 <tr>
+  <td>Meena</td>
+  <td>มีน่า</td>
+  <td>Chinese nickname (alternate pronunciation)</td>
+  <td>Father</td>
+</tr>
+<tr>
   <td rowspan="2">Muina</td>
   <td rowspan="2">มุยน่า</td>
   <td rowspan="2">Chinese nickname</td>
-  <td>Parents</td>
+  <td>Mother</td>
 </tr>
 <tr>
   <td>Elder siblings</td>
